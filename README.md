@@ -17,7 +17,7 @@
 ![screenshot](https://raw.githubusercontent.com/OmarHam-dy/React-Quiz/main/screenshots/q1.png)
 ![screenshot](https://raw.githubusercontent.com/OmarHam-dy/React-Quiz/main/screenshots/q2.png)
 ![screenshot](https://raw.githubusercontent.com/OmarHam-dy/React-Quiz/main/screenshots/q3.png)
-![screenshot](https://raw.githubusercontent.com/OmarHam-dy/React-Quiz/main/screenshots/end.png)
+![screenshot](https://raw.githubusercontent.com/OmarHam-dy/React-Quiz/main/screenshots/finish.png)
 
 ### Built With
 
